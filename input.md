@@ -1,24 +1,6 @@
 **Fine** **tuning**
 
-Fine-tuning is a process that involves taking a pre-trained model and
-adjusting it to
-
-better fit specific data, thereby enhancing the model's performance. In
-deep learning,
-
-fine-tuning is a form of transfer learning, wherein a model trained on a
-large dataset for
-
-a general task, such as image recognition or natural language
-understanding, is
-
-repurposed for a related task through minor adjustments to its internal
-parameters. The
-
-primary goal of this process is to optimize the model’s performance on
-the new task
-
-without starting the training process from scratch.
+Fine-tuning is a process that involves taking a pre-trained model and adjusting it to better fit specific data, thereby enhancing the model's performance. In deep learning fine-tuning is a form of transfer learning, wherein a model trained on a large dataset for a general task, such as image recognition or natural language understanding, is repurposed for a related task through minor adjustments to its internal parameters. The primary goal of this process is to optimize the model’s performance on the new task without starting the training process from scratch.
 
 **When** **to** **fine-tune**
 
