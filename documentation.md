@@ -80,6 +80,7 @@ Prompt engineering is the foundational method for interacting with Large Languag
 
 
 **Pros:**
+s
 ● Ease of Use: User-friendly and requires no advanced technical skills.
 
 ● Cost-Effectiveness: Minimal computational costs as it utilizes pre-trained models.
