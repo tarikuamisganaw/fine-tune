@@ -107,7 +107,7 @@ Fine-tuning involves updating a language model to specialize in a specific area,
 
 <img src="./image/fine-tune.png" style="width:6.5in;height:2.98958in" />
 
-Fig 1:fine-tuning process
+Fig 2:fine-tuning process
 
 **Retrieval** **Augmented** **Generation** **(RAG)**
 
