@@ -81,7 +81,9 @@ Prompt engineering is the foundational method for interacting with Large Languag
 
 **Pros:**
 ● Ease of Use: User-friendly and requires no advanced technical skills.
+
 ● Cost-Effectiveness: Minimal computational costs as it utilizes pre-trained models.
+
 ● Flexibility: Prompts can be quickly adjusted to explore various outputs.
 
 <img src="./image/prompt.png" style="width:6.5in;height:2.13542in" />
@@ -96,13 +98,17 @@ Fine-tuning involves updating a language model to specialize in a specific area,
 **Pros:**
 
 ● Customization: Enables extensive tailoring for specific domains or styles.
+
 ● Improved Accuracy: Produces more precise responses through specialized training.
+
 ● Adaptability: Better handles niche topics and recent information.
 
 **Cons:**
 
 ● Cost: Requires substantial computational resources, making it expensive.
+
 ● Technical Skills: Necessitates a deeper understanding of machine learning.
+
 ● Data Requirements: Needs a well-curated dataset for effective training.
 
 <img src="./image/fine-tune.png" style="width:6.5in;height:2.98958in" />
@@ -116,13 +122,17 @@ Retrieval Augmented Generation (RAG) combines LLMs with a knowledge base. The mo
 **Pros:**
 
 ● Dynamic Information: Provides up-to-date and relevant information.
+
 ● Balance: Offers a middle ground between prompting and fine-tuning.
+
 ● Contextual Relevance: Enhances responses with additional context.
 
 **Cons:**
 
-● Complexity: Integration between the model and retrieval system can be complex. 
+● Complexity: Integration between the model and retrieval system can be complex.
+
 ● Resource Intensive: Requires considerable computational power.
+
 ● Data Dependency: Output quality relies heavily on the accuracy of retrieved information.
 
 <img src="./image/rag.png" style="width:6.5in;height:2.45833in" />
@@ -222,7 +232,7 @@ Enhancing the ability of models to apply learned knowledge to new domains and ta
 
 ● Self-Supervised Learning: Utilizing unlabeled data to generate its own supervision.
 
-References
+**References**
 
 ●[<u>https://www.lakera.ai/blog/llm-fine-tuning-guide</u>](https://www.lakera.ai/blog/llm-fine-tuning-guide)
 
