@@ -13,7 +13,7 @@ In contrast, when there is a large dataset, fine-tuning may not be necessary, as
 The fine-tuning procedure is a critical phase in adapting a pre-trained language model to excel in a specific task. This process can be broken down into several key stages, each of which plays a vital role in enhancing the model's performance.
 
 
-<img src="./fine tune process.png" style="width:2 in;height:2 in" />
+<!-- <img src="./fine tune process.png" style="width:2 in;height:2 in" /> -->
 
 Below is adetailed overview of the fine-tuning process:
 
