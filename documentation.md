@@ -226,10 +226,9 @@ References
 
 ●[<u>https://www.lakera.ai/blog/llm-fine-tuning-guide</u>](https://www.lakera.ai/blog/llm-fine-tuning-guide)
 
-●[<u>https://myscale.com/blog/prompt-engineering-vs-finetuning-vs-rag/(image)</u>](https://myscale.com/blog/prompt-engineering-vs-finetuning-vs-rag/)
+●[<u>https://myscale.com/blog/prompt-engineering-vs-finetuning-vs-rag/</u>](https://myscale.com/blog/prompt-engineering-vs-finetuning-vs-rag/)
 
-●[<u>https://gpttutorpro.com/fine-tuning-large-language-models-future-trends-and-challenges/</u>](https://gpttutorpro.com
-fine-tuning-large-language-models-future-trends-and-challenges/)
+●[<u>https://gpttutorpro.com/fine-tuning-large-language-models-future-trends-and-challenges/</u>](https://gpttutorpro.com/fine-tuning-large-language-models-future-trends-and-challenges/)
 
 ●[<u>https://www.turing.com/resources/finetuning-large-language-models</u>](https://www.turing.com/resources/finetuning-large-language-models)
 
