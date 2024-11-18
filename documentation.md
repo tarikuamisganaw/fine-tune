@@ -80,7 +80,7 @@ Prompt engineering is the foundational method for interacting with Large Languag
 
 
 **Pros:**
-s
+
 ● Ease of Use: User-friendly and requires no advanced technical skills.
 
 ● Cost-Effectiveness: Minimal computational costs as it utilizes pre-trained models.
@@ -158,9 +158,9 @@ Fig 3:Rag process
 
 ● Ethical Considerations: Fine-tuned models may generate harmful or inappropriate content, necessitating ongoing efforts to ensure ethical behavior and safety.
 
-● Resource Intensiveness: Fine-tuning large models demands substantial computationa resources and time, posing challenges for smaller teams or organizations.
+● Resource Intensiveness: Fine-tuning large models demands substantial computational resources and time, posing challenges for smaller teams or organizations.
 
-● Unintended Outputs: There is no guarantee that fine-tuning will produce consistently correct outputs; models may generate plausible but factually incorrect responses, requiring careful validation.
+● Unintended Outputs: There is no guarantee that fine-tuning will produce consistently correct outputs models may generate plausible but factually incorrect responses, requiring careful validation.
 
 ● Model Drift: Over time, a fine-tuned model's performance may deteriorate due to changes in data distribution, necessitating regular monitoring and re-fine-tuning to maintain optimal performance.
 
