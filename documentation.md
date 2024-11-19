@@ -37,6 +37,7 @@ Below is adetailed overview of the fine-tuning process:
 
 ● Deployment:After successful validation and testing, the fine-tuned model is ready for deployment. It can be integrated into software systems or services for various applications, including text generation, question answering, or recommendations.
 
+#
 **Prominent** **Fine-Tuning** **Methods**
 
 Several fine-tuning techniques are employed to adjust model parameters for specific tasks, broadly categorized into two main approaches: supervised fine-tuning and reinforcement learning from human feedback (RLHF).
@@ -66,11 +67,12 @@ RLHF is an innovative approach that enhances language models through human feedb
 
 ● Proximal Policy Optimization (PPO): An iterative algorithm that updates the model's policy to maximize expected rewards while preventing drastic changes, ensuring stability and efficiency.
 
-● Comparative Ranking:  The model learns from relative rankings of outputs rather than absolute evaluations, providing nuanced feedback that helps it understand task subtleties bet
+● Comparative Ranking:  The model learns from relative rankings of outputs instead of absolute evaluations, offering nuanced feedback that aids in understanding the complexities of the task better.
 
 ● Preference Learning: This technique involves human evaluators expressing preferences between pairs of outputs, allowing the model to adjust its behavior based on these insights.
 
 ● Parameter-Efficient Fine-Tuning (PEFT):  Focuses on improving model performance by updating only a small subset of parameters during fine-tuning, significantly reducing computational and storage requirements while maintaining efficacy.
+#
 
 **RAG** **vs.** **Fine-Tuning** **vs.** **Prompt** **Engineering**
 
@@ -100,7 +102,7 @@ Prompt engineering is the foundational method for interacting with Large Languag
 
 ● Dependence on Model's Knowledge: The outputs are limited to what the model has learned during its initial training, making it less effective for highly specialized or up-to-date information.
 
-#
+
 
 <img src="./image/prompt.png" style="width:6.5in;height:2.13542in" />
 
@@ -126,7 +128,7 @@ Fine-tuning involves updating a language model to specialize in a specific area,
 ● Technical Skills: Necessitates a deeper understanding of machine learning.
 
 ● Data Requirements: Needs a well-curated dataset for effective training.
-s
+
 <img src="./image/fine-tune.png" style="width:6.5in;height:2.98958in" />
 
 Fig 2:fine-tuning process
@@ -154,6 +156,7 @@ Retrieval Augmented Generation (RAG) combines LLMs with a knowledge base. The mo
 <img src="./image/rag.png" style="width:6.5in;height:2.45833in" />
 
 Fig 3:Rag process
+#
 
 **Challenges** **and** **Limitations** **of** **LLM** **Fine-Tuning**
 
@@ -179,6 +182,7 @@ Fig 3:Rag process
 
 ● Model Drift: Over time, a fine-tuned model's performance may deteriorate due to changes in data distribution, necessitating regular monitoring and re-fine-tuning to maintain optimal performance.
 
+#
 
 **Fine-Tuning** **Applications**
 
@@ -195,6 +199,8 @@ The enhancement of chatbot interactions through fine-tuning is another significa
 **c.** **Summarization**
 
 In an age where information overload is common, the ability to automatically generate concise summaries of lengthy documents is invaluable. Fine-tuned models excel in this area, enabling organizations to distill essential information from extensive reports, articles, or research papers. This functionality significantly aids in information retrieval, allowing users to quickly grasp key points without wading through unnecessary details
+
+#
 
 **Future** **Trends** **in** **Fine-Tuning** **Large** **Language**
 **Models**
