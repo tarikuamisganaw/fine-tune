@@ -106,7 +106,7 @@ Prompt engineering is the foundational method for interacting with Large Languag
 
 <img src="./image/prompt.png" style="width:6.5in;height:2.13542in" />
 
-Fig 1:prompt engineering process
+Figure 1: Prompt Engineering Process
 
 **Fine-Tuning**
 
@@ -131,7 +131,7 @@ Fine-tuning involves updating a language model to specialize in a specific area,
 
 <img src="./image/fine-tune.png" style="width:6.5in;height:2.98958in" />
 
-Fig 2:fine-tuning process
+Figure 2: Fine-Tuning Process
 
 **Retrieval** **Augmented** **Generation** **(RAG)**
 
@@ -155,7 +155,7 @@ Retrieval Augmented Generation (RAG) combines LLMs with a knowledge base. The mo
 
 <img src="./image/rag.png" style="width:6.5in;height:2.45833in" />
 
-Fig 3:Rag process
+Figure 3: RAG (Retrieval-Augmented Generation) Process
 #
 
 **Challenges** **and** **Limitations** **of** **LLM** **Fine-Tuning**
