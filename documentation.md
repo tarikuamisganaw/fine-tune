@@ -42,6 +42,7 @@ Below is adetailed overview of the fine-tuning process:
 Several fine-tuning techniques are employed to adjust model parameters for specific tasks, broadly categorized into two main approaches: supervised fine-tuning and reinforcement learning from human feedback (RLHF).
 
 **A.** **Supervised** **Fine-Tuning**
+
 In supervised fine-tuning, a model is trained on a labeled dataset where each input is paired with a correct output. This method enables the model to leverage its pre-existing knowledge from pre-training and significantly enhances its performance on specific tasks. Key techniques include:
 
 
